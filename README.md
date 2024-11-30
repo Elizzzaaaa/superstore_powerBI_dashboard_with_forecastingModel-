@@ -86,13 +86,14 @@ Customer.
      - Statewise Sales 
 
 
-6. **Map** - Showing Sales and profit Statewise. 
+5. **Map**
+     - Showing Sales and profit          Statewise. 
 
-7. **Line Charts** -
+6. **Line Charts** -
      - Two charts have been made and forecasting of sales has been done by using advanced features. 
      - Both line Charts are sales trend and one is the zoomed version of the forecast. 
 
-9. **Slicers** - Slicers have been attached to know the insights for a particular region.
+7. **Slicers** - Slicers have been attached to know the insights for a particular region.
 
  
 ## Insights  
