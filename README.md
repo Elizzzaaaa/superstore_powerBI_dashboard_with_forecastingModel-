@@ -60,7 +60,7 @@ Customer.
 
 ## Key features -
 
-1. **KPIs** -
+1. **KPIs** 
    - Total Sales made by the store.
 
    - Total number of orders received by the store.
@@ -69,30 +69,33 @@ Customer.
    
    - Average no. of days it takes for a order to get delivered to the customer. This is calculated using DAX query. 
 
- - Donut Charts-
+2. **Donut Charts**
    - percentage of sales segment wise. 
    - percentage of sales by payment mode.
    - percentage of profit by region 
 
-3.  Area Charts - • sales by month and year - showing trends of sales over two years.
+3. **Area Charts**
+    - <ins>sales by month and year - </ins>      showing trends of sales over two          years.
 
-•Sum of profit by month and years - showing profit generated over two years. 
+    - <ins>Sum of profit by month and years</ins> - showing profit generated over two years. 
 
-4. Horizontal Bar Charts -  • Categorical Sale
-• Sub-categorical contribution to Sales. 
-• Sales by Shipping mode.
-• Statewise Sales 
+4. **Horizontal Bar Charts**
+     - Categorical Sale
+     - Sub-categorical contribution to Sales
+     - Sales by Shipping mode.
+     - Statewise Sales 
 
 
-5. Map- Showing Sales and profit Statewise. 
+6. **Map** - Showing Sales and profit Statewise. 
 
-6. Line Charts - Two charts have been made and forecasting of sales has been done by using advanced features. 
-Both line Charts are sales trend and one is the zoomed version of the forecast. 
+7. **Line Charts** -
+     - Two charts have been made and forecasting of sales has been done by using advanced features. 
+     - Both line Charts are sales trend and one is the zoomed version of the forecast. 
 
-7. Slicers - Slicers have been attached to know the insights for a particular region.
+9. **Slicers** - Slicers have been attached to know the insights for a particular region.
 
  
-Insights - 
+## Insights  
  
 1. 48% of the total sales are made by Consumer segment of buyers.
 
@@ -121,7 +124,4 @@ Insights -
 13. California has contributed to the most sales, i.e. 0.34M 
 
 14. If we go by the forecasting model, sales are going to be medium for the next 15 days.
-
-
-
-
+    
